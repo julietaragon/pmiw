@@ -1,3 +1,6 @@
+//https://youtu.be/oeCVf1k19v4
+//Comisión 2 Aragón Julieta 118959/8 Bustamante Aylen 118978/1
+
 let imagen = [];
 let dialogo;
 let estado;
@@ -175,3 +178,4 @@ function avanzarHistoria() {
   ocultarBotonesEspeciales();
   boton.show();
 }
+
